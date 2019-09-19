@@ -1,0 +1,10 @@
+{
+    "developerModeScriptList": [
+        "__APPEND__",
+        "client/modules/signature/lib/jsignature/jSignature.min.noconflict.js"
+    ],
+    "scriptList": [
+        "__APPEND__",
+        "client/modules/signature/lib/jsignature/jSignature.min.noconflict.js"
+    ]
+}

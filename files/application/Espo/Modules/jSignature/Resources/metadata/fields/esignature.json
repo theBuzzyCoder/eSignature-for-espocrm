@@ -1,0 +1,13 @@
+{
+    "fieldDefs": {
+        "notStorable": false,
+        "type": "text"
+    },
+    "filter": false,
+    "fullTextSearch": false,
+    "notCreatable": false,
+    "params": [],
+    "readOnly": false,
+    "textFilter": false,
+    "view": "jsignature:views/fields/esignature"
+}

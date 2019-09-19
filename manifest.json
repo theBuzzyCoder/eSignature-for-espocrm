@@ -2,7 +2,7 @@
     "name": "JSignature Pack",
     "version": "1.0.0",
     "acceptableVersions": [
-        ">=5.6.9"
+        ">=5.0.0"
     ],
     "releaseDate": "2019-09-18",
     "author": "Karthik Bhat K.",
